@@ -1,0 +1,10 @@
+[{Name = The Great Escape, Cover Image = Assets/Images/the_great_escape.jpg, Author = John Smith, PublishedYear = 2006, ISBN = 978-163874999},
+ {Name = Mystery at the Manor, Cover Image = Assets/Images/mystery_at_the_manor.jpg, Author = Emily Stone, PublishedYear = 2004, ISBN = 978-124307033},
+ {Name = Space Odyssey, Cover Image = Assets/Images/space_odyssey.png, Author = James Carter, PublishedYear = 2014, ISBN = 978-308339788},
+ {Name = Code of Shadows, Cover Image = Assets/Images/the_code_of_shadows.png, Author = Sophia Williams, PublishedYear = 2011, ISBN = 978-277551188},
+ {Name = Rise of the Phoenix, Cover Image = Assets/Images/rise_of_the_phoenix.jpg, Author = Liam Brown, PublishedYear = 1988, ISBN = 978-313801766},
+ {Name = The Final Countdown, Cover Image = Assets/Images/the_final_countdown.jpg, Author = Olivia Johnson, PublishedYear = 2021, ISBN = 978-503332687},
+ {Name = Echoes of Eternity, Cover Image = Assets/Images/echoes_of_eternity.jpg, Author = Noah Davis, PublishedYear = 1993, ISBN = 978-598264758},
+ {Name = The Lost Kingdom, Cover Image = Assets/Images/the_lost_kingdom.jpg, Author = Isabella Moore, PublishedYear = 2001, ISBN = 978-960221525},
+ {Name = Whispers in the Dark, Cover Image = Assets/Images/whispers_in_the_dark.jpg, Author = Mason Wilson, PublishedYear = 1994, ISBN = 978-994293631},
+ {Name = The Infinite Horizon, Cover Image = Assets/Images/the_infinite_horizon.jpg, Author = Emma Thompson, PublishedYear = 2020, ISBN = 978-802801337}]
