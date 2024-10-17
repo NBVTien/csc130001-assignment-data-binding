@@ -3,8 +3,8 @@ using Week04.Helpers;
 
 namespace Week04
 {
-	public class MockDao
+	public interface IDao
 	{
-		List<Book> GetBooks()
+		List<Book> GetBooks();
 	}
 }
