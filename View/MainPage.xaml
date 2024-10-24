@@ -48,8 +48,8 @@
         </StackPanel>
 
         <ComboBox Name="itemsComboBox" 
-                  ItemsSource="{x:Bind ViewModel.Employees}"
-                  ItemTemplate="{StaticResource VerticalEmployee}"
+                  ItemsSource="{x:Bind ViewModel.Employees, Mode=OneWay}"
+                  ItemTemplate="{StaticResource HorizontalEmployee}"
                   Width="400" Height="35">
         </ComboBox>
     </StackPanel>

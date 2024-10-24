@@ -1,9 +1,9 @@
 {
   "profiles": {
-    "Week04 (Package)": {
+    "DemoListBinding1610 (Package)": {
       "commandName": "MsixPackage"
     },
-    "Week04 (Unpackaged)": {
+    "DemoListBinding1610 (Unpackaged)": {
       "commandName": "Project"
     }
   }
